@@ -1,6 +1,7 @@
-print 1
-print 2
-print 3
-print 4
-print 5
-print 6
+print 01
+print 02
+print 03
+print 04
+print 05
+print 06
+
