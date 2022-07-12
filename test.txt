@@ -9,3 +9,13 @@ print 07
 print 08
 print 09
 print 10
+print 11
+print 12
+print 13
+print 14
+print 15
+print 16
+print 17
+print 18
+print 19
+print 20
